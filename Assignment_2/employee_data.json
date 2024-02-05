@@ -1,0 +1,12 @@
+[
+    {"name": "Gavin", "salary": 50000, "age": 25},
+    {"name": "Isaac", "salary": 60000, "age": 34},
+    {"name": "Hicklin", "salary": 55000, "age": 22},
+    {"name": "Kaden", "salary": 70000, "age": 35},
+    {"name": "Red", "salary": 52000, "age": 28},
+    {"name": "Ethan", "salary": 65000, "age": 42},
+    {"name": "Adans", "salary": 48000, "age": 22},
+    {"name": "Sullivan", "salary": 120000, "age": 35},
+    {"name": "Shevlin", "salary": 50500, "age": 22},
+    {"name": "Samuel", "salary": 68900, "age": 37}
+]
